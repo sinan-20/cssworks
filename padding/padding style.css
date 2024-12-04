@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+
+}
+      /*globel selecter  remove defualt margin*/
+
+.box{
+    border: 1px black solid;
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: black;
+    padding-left: 30px;
+    padding-top: 30px;
+}

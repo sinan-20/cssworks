@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 100vh;/*viewport height*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    border: 1px black solid;
+    background-color: brown;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

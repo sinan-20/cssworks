@@ -1,0 +1,27 @@
+/* h1{
+    color: blueviolet;
+    text-align: center;
+}
+span{
+    color: gold;
+    text-align: center;
+} */
+
+#first{
+    color:blueviolet;
+    text-align: center;
+}
+#second{
+    color: brown;
+    text-align: center;
+}
+
+.text-danger{
+    color: red;
+}
+.text-success{
+    color: green;
+}
+.text-dec-underline{
+    text-decoration: underline;
+}
